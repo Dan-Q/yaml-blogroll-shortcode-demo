@@ -1,0 +1,17 @@
+{
+    "name": "dan/danq-blogroll",
+    "require": {
+        "symfony/yaml": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dan\\DanqBlogroll\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dan Q",
+            "email": "github@danq.me"
+        }
+    ]
+}
